@@ -6,10 +6,13 @@ Shield seguidor de lineas para el Arduino UNO
 
 El proyecto consta de 3 archivos importantes:
 
-*Siscom_SEGUIDOR.sch: Diagrama electrico del proyecto
+*SiscomSeguidor_1.sch: Diagrama electrico del proyecto
 
-*Siscom_SEGUIDOR.brd: Archivo del diseño del circuito impreso
+*SiscomSeguidor_1.brd: Archivo del diseño del circuito impreso
 
+*SiscomSeguidor_Componentes.pdf: Archivo PDF de los componentes del circuito
+
+*SiscomSeguidor_Pistas.pdf: Archivo PDF con el diseño de pistas
 
 ## Consideraciones
 
